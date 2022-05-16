@@ -1,0 +1,13 @@
+C:\Users\Natalja\Documents\Visual Studio 2019\Projects\UserProfile.Console\UserProfile.Application\bin\Debug\UserProfile.Application.dll
+C:\Users\Natalja\Documents\Visual Studio 2019\Projects\UserProfile.Console\UserProfile.Application\bin\Debug\UserProfile.Application.pdb
+C:\Users\Natalja\Documents\Visual Studio 2019\Projects\UserProfile.Console\UserProfile.Application\bin\Debug\NLog.dll
+C:\Users\Natalja\Documents\Visual Studio 2019\Projects\UserProfile.Console\UserProfile.Application\bin\Debug\UserProfile.Common.dll
+C:\Users\Natalja\Documents\Visual Studio 2019\Projects\UserProfile.Console\UserProfile.Application\bin\Debug\UserProfile.Infrastructure.dll
+C:\Users\Natalja\Documents\Visual Studio 2019\Projects\UserProfile.Console\UserProfile.Application\bin\Debug\UserProfile.Common.pdb
+C:\Users\Natalja\Documents\Visual Studio 2019\Projects\UserProfile.Console\UserProfile.Application\bin\Debug\UserProfile.Infrastructure.pdb
+C:\Users\Natalja\Documents\Visual Studio 2019\Projects\UserProfile.Console\UserProfile.Application\bin\Debug\NLog.xml
+C:\Users\Natalja\Documents\Visual Studio 2019\Projects\UserProfile.Console\UserProfile.Application\obj\Debug\UserProfile.Application.csproj.AssemblyReference.cache
+C:\Users\Natalja\Documents\Visual Studio 2019\Projects\UserProfile.Console\UserProfile.Application\obj\Debug\UserProfile.Application.csproj.CoreCompileInputs.cache
+C:\Users\Natalja\Documents\Visual Studio 2019\Projects\UserProfile.Console\UserProfile.Application\obj\Debug\UserProfile.Application.csproj.CopyComplete
+C:\Users\Natalja\Documents\Visual Studio 2019\Projects\UserProfile.Console\UserProfile.Application\obj\Debug\UserProfile.Application.dll
+C:\Users\Natalja\Documents\Visual Studio 2019\Projects\UserProfile.Console\UserProfile.Application\obj\Debug\UserProfile.Application.pdb

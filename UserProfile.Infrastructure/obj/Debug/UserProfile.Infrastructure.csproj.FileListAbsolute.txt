@@ -1,0 +1,9 @@
+C:\Users\Natalja\Documents\Visual Studio 2019\Projects\UserProfile.Console\UserProfile.Infrastructure\bin\Debug\UserProfile.Infrastructure.dll
+C:\Users\Natalja\Documents\Visual Studio 2019\Projects\UserProfile.Console\UserProfile.Infrastructure\bin\Debug\UserProfile.Infrastructure.pdb
+C:\Users\Natalja\Documents\Visual Studio 2019\Projects\UserProfile.Console\UserProfile.Infrastructure\bin\Debug\UserProfile.Common.dll
+C:\Users\Natalja\Documents\Visual Studio 2019\Projects\UserProfile.Console\UserProfile.Infrastructure\bin\Debug\UserProfile.Common.pdb
+C:\Users\Natalja\Documents\Visual Studio 2019\Projects\UserProfile.Console\UserProfile.Infrastructure\obj\Debug\UserProfile.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Natalja\Documents\Visual Studio 2019\Projects\UserProfile.Console\UserProfile.Infrastructure\obj\Debug\UserProfile.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Natalja\Documents\Visual Studio 2019\Projects\UserProfile.Console\UserProfile.Infrastructure\obj\Debug\UserProfile.Infrastructure.csproj.CopyComplete
+C:\Users\Natalja\Documents\Visual Studio 2019\Projects\UserProfile.Console\UserProfile.Infrastructure\obj\Debug\UserProfile.Infrastructure.dll
+C:\Users\Natalja\Documents\Visual Studio 2019\Projects\UserProfile.Console\UserProfile.Infrastructure\obj\Debug\UserProfile.Infrastructure.pdb

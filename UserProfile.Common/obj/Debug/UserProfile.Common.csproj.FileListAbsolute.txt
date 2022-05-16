@@ -1,0 +1,6 @@
+C:\Users\Natalja\Documents\Visual Studio 2019\Projects\UserProfile.Console\UserProfile.Common\bin\Debug\UserProfile.Common.dll
+C:\Users\Natalja\Documents\Visual Studio 2019\Projects\UserProfile.Console\UserProfile.Common\bin\Debug\UserProfile.Common.pdb
+C:\Users\Natalja\Documents\Visual Studio 2019\Projects\UserProfile.Console\UserProfile.Common\obj\Debug\UserProfile.Common.csproj.AssemblyReference.cache
+C:\Users\Natalja\Documents\Visual Studio 2019\Projects\UserProfile.Console\UserProfile.Common\obj\Debug\UserProfile.Common.csproj.CoreCompileInputs.cache
+C:\Users\Natalja\Documents\Visual Studio 2019\Projects\UserProfile.Console\UserProfile.Common\obj\Debug\UserProfile.Common.dll
+C:\Users\Natalja\Documents\Visual Studio 2019\Projects\UserProfile.Console\UserProfile.Common\obj\Debug\UserProfile.Common.pdb
