@@ -86,8 +86,8 @@ namespace UserProfile.Application.BL
                 var max = langGroups.Max(c => c.Count);
 
                 statistic.AverageAge = (int)ages.Average();
-                statistic.MostPopularLang = (from lg in langGroups where lg.Count == max select lg).FirstOrDefault().Text;
-                statistic.Senior = (from d in devs.OrderByDescending(x=>x.Value) select d).First().Key;
+                statistic.MostPopularLang = (from lg in langGroups where lg.Count == max select lg).FirstOrDefault().Text.Trim();
+                statistic.Senior = (from d in devs.OrderByDescending(x=>x.Value) select d).First().Key.Trim();
 
                 result.Code = CodeResult.Success;
                 result.Data = statistic;
